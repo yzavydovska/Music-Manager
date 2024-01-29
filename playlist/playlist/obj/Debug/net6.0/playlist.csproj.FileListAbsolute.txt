@@ -1,0 +1,17 @@
+C:\Users\Yuliia\source\repos\playlist\playlist\obj\Debug\net6.0\playlist.csproj.AssemblyReference.cache
+C:\Users\Yuliia\source\repos\playlist\playlist\obj\Debug\net6.0\playlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuliia\source\repos\playlist\playlist\obj\Debug\net6.0\playlist.AssemblyInfoInputs.cache
+C:\Users\Yuliia\source\repos\playlist\playlist\obj\Debug\net6.0\playlist.AssemblyInfo.cs
+C:\Users\Yuliia\source\repos\playlist\playlist\obj\Debug\net6.0\playlist.csproj.CoreCompileInputs.cache
+C:\Users\Yuliia\source\repos\playlist\playlist\bin\Debug\net6.0\playlist.exe
+C:\Users\Yuliia\source\repos\playlist\playlist\bin\Debug\net6.0\playlist.deps.json
+C:\Users\Yuliia\source\repos\playlist\playlist\bin\Debug\net6.0\playlist.runtimeconfig.json
+C:\Users\Yuliia\source\repos\playlist\playlist\bin\Debug\net6.0\playlist.dll
+C:\Users\Yuliia\source\repos\playlist\playlist\bin\Debug\net6.0\playlist.pdb
+C:\Users\Yuliia\source\repos\playlist\playlist\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Yuliia\source\repos\playlist\playlist\obj\Debug\net6.0\playlist.csproj.CopyComplete
+C:\Users\Yuliia\source\repos\playlist\playlist\obj\Debug\net6.0\playlist.dll
+C:\Users\Yuliia\source\repos\playlist\playlist\obj\Debug\net6.0\refint\playlist.dll
+C:\Users\Yuliia\source\repos\playlist\playlist\obj\Debug\net6.0\playlist.pdb
+C:\Users\Yuliia\source\repos\playlist\playlist\obj\Debug\net6.0\playlist.genruntimeconfig.cache
+C:\Users\Yuliia\source\repos\playlist\playlist\obj\Debug\net6.0\ref\playlist.dll

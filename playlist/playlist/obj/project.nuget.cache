@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LYP75AoDvLIwi5RoFdrdm7rZgWoGWe8UadmOgzt8EHPWzpk35GjcSsKzBWkTRbl+m9OGF10c/TA6L3NtTUvMdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yuliia\\Downloads\\zaliczenie_obiektowe\\zaliczenie_obiektowe\\playlist\\playlist\\playlist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yuliia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
